@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CardViewGDS0343</string>
+
+    <string-array name="names_array">
+        <item>Miguel</item>
+        <item>Juana</item>
+        <item>Cristobal</item>
+        <item>Any</item>
+        <item>Julian</item>
+        <item>Melisa</item>
+        <item>David</item>
+        <item>Ana</item>
+        <item>Kimberly</item>
+        <item>Osvaldo</item>
+    </string-array>
+</resources>
